@@ -1,1 +1,2 @@
 #1 create and customize landing page
+#2 create and make sidebar work
