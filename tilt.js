@@ -179,7 +179,7 @@
           }deg) rotateY(${
             this.settings.disableAxis === "y" ? 0 : this.transforms.tiltX
           }deg) scale3d(${this.settings.scale},${this.settings.scale},${
-            this.settings.scale
+            this.settings.scale = 1.1
           })`
         );
 
