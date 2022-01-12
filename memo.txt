@@ -2,3 +2,4 @@
 #2 create and make sidebar work
 #3 create and style About Us Section Using CSS Grid
 #4 create and customize Cards with Tilt.js
+#5 create and style Contact Section
